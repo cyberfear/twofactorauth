@@ -1,0 +1,16 @@
+{
+  "mailum.com": {
+    "domain": "mailum.com",
+    "tfa": [
+      "totp",
+      "custom-hardware"
+    ],
+    "custom-hardware": [
+      "Yubico OTP"
+    ],
+    "documentation": "https://mailum.com/blog/2fa-at-mailum/",
+    "categories": [
+      "email"
+    ]
+  }
+}
